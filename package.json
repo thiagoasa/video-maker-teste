@@ -1,0 +1,14 @@
+{
+  "name": "video-maker-teste",
+  "version": "1.0.0",
+  "description": "Projeto do Filipe Deschamps pra fazer vídeos automatizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
